@@ -1,0 +1,51 @@
+CODEWORKS
+
+BASICS
+1. Odd & Even
+2. Prime & Composite
+3. Pallindrome
+4. Reverse
+5. Amstrong
+6. Factorial
+7. Magic
+8. Evil
+9. Happy
+10. Emirp
+
+FUNDAMENTALS
+1. Exponent (Power)
+2. Square
+3. Square Root
+4. Multiply _2_ Numbers
+5. Divide _2_ Numbers
+6. Addition _2_ Numbers
+7. Subtraction _2_ Numbers
+
+SERIES
+1. Sum Upto N Numbers
+2. Product Upto N Numbers
+3. Square Series
+4. Cube Series
+5. Fibonocci Series
+
+SEARCH
+1. Binary
+2. Heap
+3. Breath First
+4. Depth First
+5. Linear
+6. Jump
+7. Interpolation
+8. Exponential
+
+SORT
+1. Merge
+2. Heap
+3. Bubble
+4. Quick
+5. Insertion
+6. Selection
+7. Radix
+8. Shell
+9. Counting
+10. Pigeonhole
