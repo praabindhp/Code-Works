@@ -2,7 +2,7 @@ CODEWORKS
 
 BASICS
 1. Odd & Even - @
-2. Prime & Composite
+2. Prime & Composite - @
 3. Pallindrome
 4. Reverse
 5. Amstrong
@@ -10,7 +10,7 @@ BASICS
 7. Magic - @
 8. Evil
 9. Happy
-10. Emirp
+10. Emirp - @
 
 FUNDAMENTALS
 1. Exponent (Power)
