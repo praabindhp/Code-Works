@@ -27,7 +27,8 @@ SERIES
 3. Square Series
 4. Cube Series
 5. Fibonocci Series
-6. Emirp
+6. Emirp Series
+7. 
 
 SEARCH
 1. Binary
