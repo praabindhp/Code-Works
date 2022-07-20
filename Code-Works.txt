@@ -9,7 +9,7 @@ BASICS
 6. Factorial - @
 7. Magic - @
 8. Evil - @
-9. Happy
+9. Happy - @
 10. Emirp - @
 
 FUNDAMENTALS
