@@ -1,3 +1,4 @@
+import math
 a = int(input("Enter Number : "))
-c = a ** a
+c = math.sqrt(a)
 print(c)
