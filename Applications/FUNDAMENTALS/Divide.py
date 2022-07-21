@@ -1,4 +1,4 @@
-a = int(input("Enter Number : "))
-b = int(input("Enter Number : "))
+a = int(input("Enter Divident : "))
+b = int(input("Enter Divisor : "))
 c = a / b
 print(c)
