@@ -29,5 +29,5 @@ def printEmirp(n):
 
                 prime[rev] = 0;
 
-n = int(input("Enter The N Value : "))
+n = int(input("Enter The Limit - N : "))
 printEmirp(n);
