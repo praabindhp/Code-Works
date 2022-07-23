@@ -1,3 +1,6 @@
 n = int(input("Enter The Number Of Values : "))
-for i in range(1, n):
-    print(i**2)
+res = []
+for i in range(1, n+1):
+    res.append(i**2)
+    
+print(*res)
