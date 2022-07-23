@@ -1,8 +1,8 @@
-from math import prod
-
-
 n = int(input("Enter The Number Of Values : "))
-prod3 = 0
+prod = 0
+res = []
 for i in range(1, n):
     prod += i
-    print(prod)
+    res.append(prod)
+
+print(*res)
