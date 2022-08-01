@@ -23,23 +23,23 @@ FUNDAMENTALS
 8. Cube
 
 SERIES
-1. Sum Upto N Numbers
-2. Product Upto N Numbers
-3. Square Series
-4. Cube Series
-5. Fibonocci Series
-6. Emirp Series
-7. Prime Series
+1. Sum Upto N Numbers - @
+2. Product Upto N Numbers - @
+3. Square Series - @
+4. Cube Series - @
+5. Fibonocci Series - @
+6. Emirp Series - @
+7. Prime Series - @
 
 SEARCH
-1. Binary
-2. Heap
-3. Breath First
-4. Depth First
-5. Linear
-6. Jump
-7. Interpolation
-8. Exponential
+1. Binary - 
+2. Heap - 
+3. Breath First - 
+4. Depth First - 
+5. Linear - 
+6. Jump - 
+7. Interpolation - 
+8. Exponential - @
 
 SORT
 1. Merge

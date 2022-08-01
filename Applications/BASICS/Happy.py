@@ -7,7 +7,7 @@ def isHappyNumber(num):
         num = num//10;    
     return sum;    
         
-num = int(input("Enter Number : "))   
+num = int(input("Enter Number : "))
 result = num;    
      
 while(result != 1 and result != 4):    
