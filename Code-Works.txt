@@ -20,7 +20,7 @@ FUNDAMENTALS
 5. Divide _2_ Numbers - @
 6. Addition _2_ Numbers - @
 7. Subtraction _2_ Numbers - @
-8. Cube
+8. Cube - @
 
 SERIES
 1. Sum Upto N Numbers - @
